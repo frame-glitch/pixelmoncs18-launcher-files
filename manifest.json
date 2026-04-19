@@ -1,0 +1,386 @@
+{
+  "version": "0.0.1",
+  "skipIfVersionMatches": true,
+  "files": [
+    {
+      "path": "config/cusnpc/trainers/example_trainer.json",
+      "sha1": "c6d7d3890903c57085361b886a0c3d33dbdc6b9e",
+      "url": "config/cusnpc/trainers/example_trainer.json"
+    },
+    {
+      "path": "config/CustomNpcs.cfg",
+      "sha1": "b84c9766ccf6887f7e1028ab2aad300fc54a8c54",
+      "url": "config/CustomNpcs.cfg"
+    },
+    {
+      "path": "config/fml.toml",
+      "sha1": "65d48e5dee041247b47d639c5ca7299e9dbbeb96",
+      "url": "config/fml.toml"
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+      "url": "config/iris-excluded.json"
+    },
+    {
+      "path": "config/iris.properties",
+      "sha1": "5d2694e8fe9a3a807d49cb5ca330c14f1005bade",
+      "url": "config/iris.properties"
+    },
+    {
+      "path": "config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "url": "config/lithium.properties"
+    },
+    {
+      "path": "config/neoforge-client.toml",
+      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+      "url": "config/neoforge-client.toml"
+    },
+    {
+      "path": "config/neoforge-common.toml",
+      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
+      "url": "config/neoforge-common.toml"
+    },
+    {
+      "path": "config/pixelmon/afk_handler.yml",
+      "sha1": "6896086c847f4d6835ebff50fbbf6700ce663598",
+      "url": "config/pixelmon/afk_handler.yml"
+    },
+    {
+      "path": "config/pixelmon/battle.yml",
+      "sha1": "96389c6efa72b23985c6226390859d2d4f4adc75",
+      "url": "config/pixelmon/battle.yml"
+    },
+    {
+      "path": "config/pixelmon/breeding.yml",
+      "sha1": "d5b84dd843561af670ae8e4a69c11bf271eee5e2",
+      "url": "config/pixelmon/breeding.yml"
+    },
+    {
+      "path": "config/pixelmon/charms.yml",
+      "sha1": "08faa4d95cecac325b779b50efe201f98841bc82",
+      "url": "config/pixelmon/charms.yml"
+    },
+    {
+      "path": "config/pixelmon/commands.yml",
+      "sha1": "b0bd6608aa3b69b9ee7fd5c53f243a0655c49ca4",
+      "url": "config/pixelmon/commands.yml"
+    },
+    {
+      "path": "config/pixelmon/config.yml",
+      "sha1": "a46050d3a0aa4543a576af3936bea435dcd8e505",
+      "url": "config/pixelmon/config.yml"
+    },
+    {
+      "path": "config/pixelmon/debug.yml",
+      "sha1": "e990a37d323e0bc679fab0c07284054aaf3efbe5",
+      "url": "config/pixelmon/debug.yml"
+    },
+    {
+      "path": "config/pixelmon/dimensions.yml",
+      "sha1": "f309607a25f4d634fc6689ed69979694fd14b9cb",
+      "url": "config/pixelmon/dimensions.yml"
+    },
+    {
+      "path": "config/pixelmon/drops.yml",
+      "sha1": "56064ae359cf39d68ec431b12ba15f623a99a318",
+      "url": "config/pixelmon/drops.yml"
+    },
+    {
+      "path": "config/pixelmon/entity.yml",
+      "sha1": "6483ec323a5b4a99b0ba71ed521f6aac553d74ab",
+      "url": "config/pixelmon/entity.yml"
+    },
+    {
+      "path": "config/pixelmon/external_moves.yml",
+      "sha1": "6b103de56b117bd6b1f25753e3523cade3a40fca",
+      "url": "config/pixelmon/external_moves.yml"
+    },
+    {
+      "path": "config/pixelmon/graphics.yml",
+      "sha1": "7acf82461a38ede131c1cbfb6468b33014a73a21",
+      "url": "config/pixelmon/graphics.yml"
+    },
+    {
+      "path": "config/pixelmon/healing.yml",
+      "sha1": "16e073b1485c2402216d366f3cf239f1ebfb8fae",
+      "url": "config/pixelmon/healing.yml"
+    },
+    {
+      "path": "config/pixelmon/items.yml",
+      "sha1": "b59781057c8e597045d8c47e259c2b68857ac6af",
+      "url": "config/pixelmon/items.yml"
+    },
+    {
+      "path": "config/pixelmon/npcs.yml",
+      "sha1": "8af735b84e82f6036c4063377bf6a130998650f2",
+      "url": "config/pixelmon/npcs.yml"
+    },
+    {
+      "path": "config/pixelmon/ore_color.yml",
+      "sha1": "97050e306452565580139de99f8ce5cbb7f3e857",
+      "url": "config/pixelmon/ore_color.yml"
+    },
+    {
+      "path": "config/pixelmon/outside_effects.yml",
+      "sha1": "6a5fb7d05e500db1602d24cb3d3d2e4167fe061b",
+      "url": "config/pixelmon/outside_effects.yml"
+    },
+    {
+      "path": "config/pixelmon/pokedollars.yml",
+      "sha1": "d64b80e2b8962245a8417cc531ef2cde6804890b",
+      "url": "config/pixelmon/pokedollars.yml"
+    },
+    {
+      "path": "config/pixelmon/pokerus.yml",
+      "sha1": "f5f19194d482986d062f0777920724827da06c85",
+      "url": "config/pixelmon/pokerus.yml"
+    },
+    {
+      "path": "config/pixelmon/raids.yml",
+      "sha1": "cf4c16878a2a08813cace565b465dc5458bdd14b",
+      "url": "config/pixelmon/raids.yml"
+    },
+    {
+      "path": "config/pixelmon/riding.yml",
+      "sha1": "380ef7190c89867573096af046dffbc03601bb28",
+      "url": "config/pixelmon/riding.yml"
+    },
+    {
+      "path": "config/pixelmon/server_discord.yml",
+      "sha1": "0f609107821f482ddec74f92bc6bc0db3ae4f5fc",
+      "url": "config/pixelmon/server_discord.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/boss.yml",
+      "sha1": "719cedf69081c63d477353b2e0df8357b7dc35ac",
+      "url": "config/pixelmon/spawning/boss.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/curry.yml",
+      "sha1": "b8f2ba97a8bcf0aeecff7a7fa20c03d99623f623",
+      "url": "config/pixelmon/spawning/curry.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/general.yml",
+      "sha1": "f47d7e413de9b5ba7858dbf8cac8d875e237e5e8",
+      "url": "config/pixelmon/spawning/general.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/legendary.yml",
+      "sha1": "add9998e07bc367c1778bac11b6427244522b928",
+      "url": "config/pixelmon/spawning/legendary.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/meltan.yml",
+      "sha1": "9c45a2e9e3a3f0c750d790d2da29b71a5677c237",
+      "url": "config/pixelmon/spawning/meltan.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/pokestop.yml",
+      "sha1": "537fe4add79b9489548fcb0856ea4bd19af04409",
+      "url": "config/pixelmon/spawning/pokestop.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/poke_loot.yml",
+      "sha1": "ac5384cf7dcf1e325518d699def82fa9df65495a",
+      "url": "config/pixelmon/spawning/poke_loot.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/ultra_space.yml",
+      "sha1": "4926fa2d099ca929b92c6cb48b8563726bc5a4f8",
+      "url": "config/pixelmon/spawning/ultra_space.yml"
+    },
+    {
+      "path": "config/pixelmon/spawning/wild.yml",
+      "sha1": "3b020367b4e942a70a7a70930bfb37872e78532a",
+      "url": "config/pixelmon/spawning/wild.yml"
+    },
+    {
+      "path": "config/pixelmon/storage.yml",
+      "sha1": "b8bea26a941980d550278cbbb5d6ed856c49efc2",
+      "url": "config/pixelmon/storage.yml"
+    },
+    {
+      "path": "config/pixelmon/structures.yml",
+      "sha1": "b6b152da482cd17ad5172eae65ddb490cf208b0a",
+      "url": "config/pixelmon/structures.yml"
+    },
+    {
+      "path": "config/pixelmon/tcg.yml",
+      "sha1": "d8c660bffb59a4539f40d438949dcb6665697df0",
+      "url": "config/pixelmon/tcg.yml"
+    },
+    {
+      "path": "config/pixelmon/tms.yml",
+      "sha1": "2fe424b7679a780149f28cd2097b58a97c843a7a",
+      "url": "config/pixelmon/tms.yml"
+    },
+    {
+      "path": "config/pixeltweaks-client.toml",
+      "sha1": "c983f4a22cc964229ae6a329b830cc8c63aa5a6a",
+      "url": "config/pixeltweaks-client.toml"
+    },
+    {
+      "path": "config/pixeltweaks-common.toml",
+      "sha1": "aaace75e8f4fa2f1e288f6ddc26947746eeb7d96",
+      "url": "config/pixeltweaks-common.toml"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "sha1": "290070e6840fe5f2dae83d2ab1708ccbe18fd610",
+      "url": "config/sodium-extra-options.json"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+      "url": "config/sodium-extra.properties"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "sha1": "d8cfffb56a12006fd8c99ad89a3d78e0f183aca7",
+      "url": "config/sodium-fingerprint.json"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+      "url": "config/sodium-mixins.properties"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "sha1": "7cb7ced431ad04414be5a7cc6bb9f2de3fcf51f5",
+      "url": "config/sodium-options.json"
+    },
+    {
+      "path": "mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+      "sha1": "e2f3b58ceb5aac4021d7bfd130e320925581471b",
+      "url": "mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar"
+    },
+    {
+      "path": "mods/ExtraLib-1.8.6-1.21.1-NeoForge.jar",
+      "sha1": "bbc1c20cc0b87ef2c4e240fe5c92ac434109596f",
+      "url": "mods/ExtraLib-1.8.6-1.21.1-NeoForge.jar"
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha1": "a3e6355915c7d3b2bc392724795113e51d289378",
+      "url": "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.25.0.324.jar",
+      "sha1": "0e75256edd6cf163f0b7912f03fa24b4cfdf1eab",
+      "url": "mods/jei-1.21.1-neoforge-19.25.0.324.jar"
+    },
+    {
+      "path": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
+      "sha1": "369f9271b8b8adbb8b5baa7f2aa661edb9eb5838",
+      "url": "mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar"
+    },
+    {
+      "path": "mods/lithium-neoforge-0.15.0+mc1.21.1.jar",
+      "sha1": "584c5a8186938dd58e43ecde316253e8e38f6650",
+      "url": "mods/lithium-neoforge-0.15.0+mc1.21.1.jar"
+    },
+    {
+      "path": "mods/pixelitems-1.0.2.jar",
+      "sha1": "023f5ce66364fd67a3c95adaa7fa306b03055c48",
+      "url": "mods/pixelitems-1.0.2.jar"
+    },
+    {
+      "path": "mods/Pixelmon-1.21.1-9.3.14-universal.jar",
+      "sha1": "1696ee5147113b1f0f7af73d7ba991d8db7ac6c0",
+      "url": "mods/Pixelmon-1.21.1-9.3.14-universal.jar"
+    },
+    {
+      "path": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "sha1": "7473bb42753902c639294821af13e9cd9ee735da",
+      "url": "mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1",
+      "url": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.11.jar",
+      "sha1": "e5690abe4382fb92aed31e9154f0de3fd52e5c50",
+      "url": "mods/voicechat-neoforge-1.21.1-2.6.11.jar"
+    },
+    {
+      "path": "mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar",
+      "sha1": "6b2079c846ffd0573a8fd9adf6e99b8325ab4ab6",
+      "url": "mods/WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/freetype.dll",
+      "sha1": "8ca2b2c92f7b28b873243a554c04861c9a4db3ad",
+      "url": "versions/neoforge-21.1.200/natives/freetype.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/glfw.dll",
+      "sha1": "2e19147110b9872a52814956bab151a7aa80ce58",
+      "url": "versions/neoforge-21.1.200/natives/glfw.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/jemalloc.dll",
+      "sha1": "6403f8243ea983a225b3bcda6c821a0029ad9ee2",
+      "url": "versions/neoforge-21.1.200/natives/jemalloc.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/jna4058020211012948091.dll",
+      "sha1": "94d2191378cac5719daecc826fc116816284c406",
+      "url": "versions/neoforge-21.1.200/natives/jna4058020211012948091.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/jna4058020211012948091.dll.x",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "url": "versions/neoforge-21.1.200/natives/jna4058020211012948091.dll.x"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/jna5537858840794381061.dll",
+      "sha1": "94d2191378cac5719daecc826fc116816284c406",
+      "url": "versions/neoforge-21.1.200/natives/jna5537858840794381061.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/jna5537858840794381061.dll.x",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "url": "versions/neoforge-21.1.200/natives/jna5537858840794381061.dll.x"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/lwjgl.dll",
+      "sha1": "2bf57942dff5360889f0e89c58d5acdc54e5f1ea",
+      "url": "versions/neoforge-21.1.200/natives/lwjgl.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/lwjgl_opengl.dll",
+      "sha1": "dc0249933f6fc2c0dafa53a3b710056597c8ee19",
+      "url": "versions/neoforge-21.1.200/natives/lwjgl_opengl.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/lwjgl_stb.dll",
+      "sha1": "af3b372e2b366c5e681cd3b0640fd9fc41e0a265",
+      "url": "versions/neoforge-21.1.200/natives/lwjgl_stb.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/natives/OpenAL.dll",
+      "sha1": "96014cec517f2c55a0329a71cd99e68cab7d3242",
+      "url": "versions/neoforge-21.1.200/natives/OpenAL.dll"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/neoforge-21.1.200.jar",
+      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
+      "url": "versions/neoforge-21.1.200/neoforge-21.1.200.jar"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/neoforge-21.1.200.json",
+      "sha1": "7082c0fc54660f964dc3d09127d33e126368d659",
+      "url": "versions/neoforge-21.1.200/neoforge-21.1.200.json"
+    },
+    {
+      "path": "versions/neoforge-21.1.200/TLauncherAdditional.json",
+      "sha1": "9c3721e2d3eb50f4134e0807a47f1eecc948e6df",
+      "url": "versions/neoforge-21.1.200/TLauncherAdditional.json"
+    }
+  ]
+}
