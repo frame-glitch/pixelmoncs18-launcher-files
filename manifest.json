@@ -1,6 +1,7 @@
 {
   "version": "20260420.061436",
   "skipIfVersionMatches": true,
+  "downloadBaseUrl": "https://pub-5ecd6555c379410da7c60e79cf92a695.r2.dev/files",
   "files": [
     {
       "path": "config/CustomNpcs.cfg",
@@ -309,7 +310,7 @@
   ],
   "libraries": [
     {
-      "path": "cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+      "path": "cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
     }
   ]
 }
